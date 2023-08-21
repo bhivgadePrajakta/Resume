@@ -414,3 +414,6 @@ nav .fas{
     margin-top: -40px;
     display: block;
 }
+#sidemenu{
+    right: -200px;
+}
